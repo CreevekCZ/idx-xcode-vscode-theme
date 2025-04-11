@@ -1,0 +1,53 @@
+{
+  "name": "idx-xcode",
+  "displayName": "idx-xcode",
+  "description": "Combination of IDX color theme from Charmmono Theme and xcode syntax default dark.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "CreevekCZ",
+  "author": {
+    "name": "Jan Kožnárek",
+    "email": "jan@koznarek.cz",
+    "url": "https://jan.koznarek.cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CreevekCZ/idx-xcode-vscode-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "xcode",
+    "blue",
+    "dark",
+    "macos",
+    "color-theme",
+    "idx",
+    "firebase-studio"
+  ],
+  "activationEvents": [],
+  "contributes": {
+    "themes": [
+      {
+        "label": "IDX Xcode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/idx-xcode-dark.json"
+      }
+    ],
+    "configuration": {
+      "type": "object",
+      "title": "IDX Xcode Theme",
+      "properties": {
+        "idx-xcode.themeColor": {
+          "type": "string",
+          "default": "#000000",
+          "description": "The color of the IDX Xcode theme."
+        }
+      }
+    }
+  }
+}
