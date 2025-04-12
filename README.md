@@ -16,13 +16,13 @@ After trying numerous VS Code themes, I found myself constantly returning to Xco
 - Xcode's syntax highlighting that I've grown accustomed to
 - Charmmono's sleek UI elements that make VS Code look and feel more polished
 
-<!-- ## Installation
+## Installation
 
 1. Open VS Code
 2. Go to Extensions (Ctrl/Cmd + Shift + X)
 3. Search for "IDX Xcode"
 4. Click Install
-5. Select the theme through Command Palette (Ctrl/Cmd + Shift + P) > "Preferences: Color Theme" > "IDX Xcode Dark" -->
+5. Select the theme through Command Palette (Ctrl/Cmd + Shift + P) > "Preferences: Color Theme" > "IDX Xcode - Xcode syntax and IDX Theme"
 
 
 ## Credits
