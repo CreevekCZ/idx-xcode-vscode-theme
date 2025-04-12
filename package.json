@@ -13,7 +13,7 @@
   "icon": "assets/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CreevekCZ/idx-xcode-vscode-theme.git"
+    "url": "https://github.com/CreevekCZ/idx-xcode-vscode-theme"
   },
   "engines": {
     "vscode": "^1.99.0"
