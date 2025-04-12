@@ -2,10 +2,10 @@
 
 A Visual Studio Code theme that combines the best of both worlds - the familiar color scheme from Xcode Default Dark and the elegant UI elements from Charmmono Theme.
 
-![IDX Xcode Theme - Vanilla screenshot](https://github.com/CreevekCZ/idx-xcode-vscode-theme/blob/f08fd01fc7ddea0bbba4170390d1c2903a2b1875/assets/screenshot-idx-xcode-dark.png?raw=true)
+![IDX Xcode Theme - Vanilla screenshot](https://github.com/CreevekCZ/idx-xcode-vscode-theme/blob/6e91b2a9e80ab921c97203262bdd8a12d06eabbb/assets/screenshot-idx-xcode-vanilla.png?raw=true)
 IDX Xcode - Vanilla Merge
 
-![IDX Xcode Theme - Improved](https://github.com/CreevekCZ/idx-xcode-vscode-theme/blob/f08fd01fc7ddea0bbba4170390d1c2903a2b1875/assets/screenshot-idx-xcode-dark.png?raw=true)
+![IDX Xcode Theme - Improved](https://github.com/CreevekCZ/idx-xcode-vscode-theme/blob/6e91b2a9e80ab921c97203262bdd8a12d06eabbb/assets/screenshot-idx-xcode-improved.png?raw=true)
 IDX Xcode - Improved
 
 ## About
