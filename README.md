@@ -2,16 +2,12 @@
 
 A Visual Studio Code theme that combines the best of both worlds - the familiar color scheme from Xcode Default Dark and the elegant UI elements from Charmmono Theme.
 
+![IDX Xcode Theme Screenshot](/assets/screenshot-idx-xcode-dark.png)
+
 ## About
 
 As a developer who has spent considerable time with Xcode's default dark theme, switching to a different color scheme has always been a challenge. This theme was born out of the desire to maintain the familiar and comfortable syntax highlighting from Xcode while incorporating the beautiful UI elements from the Charmmono Theme.
 
-## Credits
-
-This theme is a combination of two amazing themes:
-
-- [Xcode Default Theme](https://github.com/Nataniel4/xcode-vscode-theme) - For the syntax highlighting colors that closely match Xcode's default dark theme
-- [Charmmono Theme](https://github.com/sumangal44/charmmono-theme) - For the excellent UI elements and overall theme structure
 
 ## Why This Theme?
 
@@ -28,9 +24,14 @@ After trying numerous VS Code themes, I found myself constantly returning to Xco
 4. Click Install
 5. Select the theme through Command Palette (Ctrl/Cmd + Shift + P) > "Preferences: Color Theme" > "IDX Xcode Dark" -->
 
-## Feedback
 
-If you have any suggestions or issues, feel free to open an issue on the GitHub repository.
+## Credits
+
+This theme is a combination of two amazing themes:
+
+- [Xcode Default Theme](https://github.com/Nataniel4/xcode-vscode-theme) - For the syntax highlighting colors that closely match Xcode's default dark theme
+- [Charmmono Theme](https://github.com/sumangal44/charmmono-theme) - For the excellent UI elements and overall theme structure
+
 
 ## License
 

@@ -1,7 +1,7 @@
 {
   "name": "idx-xcode",
-  "displayName": "idx-xcode",
-  "description": "Combination of IDX color theme from Charmmono Theme and xcode syntax default dark.",
+  "displayName": "IDX Xcode - Xcode syntax and IDX Theme",
+  "description": "Combination of IDX color theme from \"Charmmono Theme\" and Xcode Syntax Default Dark from \"Xcode Syntax Themes\".",
   "version": "0.0.1",
   "license": "MIT",
   "publisher": "CreevekCZ",
@@ -10,6 +10,7 @@
     "email": "jan@koznarek.cz",
     "url": "https://jan.koznarek.cz"
   },
+  "icon": "assets/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/CreevekCZ/idx-xcode-vscode-theme.git"
@@ -29,7 +30,6 @@
     "idx",
     "firebase-studio"
   ],
-  "activationEvents": [],
   "contributes": {
     "themes": [
       {
