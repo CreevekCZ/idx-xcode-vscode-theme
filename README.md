@@ -2,11 +2,13 @@
 
 A Visual Studio Code theme that combines the best of both worlds - the familiar color scheme from Xcode Default Dark and the elegant UI elements from Charmmono Theme.
 
-![IDX Xcode Theme - Vanilla screenshot](https://github.com/CreevekCZ/idx-xcode-vscode-theme/blob/6e91b2a9e80ab921c97203262bdd8a12d06eabbb/assets/screenshot-idx-xcode-vanilla.png?raw=true)
 IDX Xcode - Vanilla Merge
+![IDX Xcode Theme - Vanilla screenshot](https://github.com/CreevekCZ/idx-xcode-vscode-theme/blob/6e91b2a9e80ab921c97203262bdd8a12d06eabbb/assets/screenshot-idx-xcode-vanilla.png?raw=true)
+------
 
-![IDX Xcode Theme - Improved](https://github.com/CreevekCZ/idx-xcode-vscode-theme/blob/6e91b2a9e80ab921c97203262bdd8a12d06eabbb/assets/screenshot-idx-xcode-improved.png?raw=true)
 IDX Xcode - Improved
+![IDX Xcode Theme - Improved](https://github.com/CreevekCZ/idx-xcode-vscode-theme/blob/6e91b2a9e80ab921c97203262bdd8a12d06eabbb/assets/screenshot-idx-xcode-improved.png?raw=true)
+-----
 
 ## About
 
@@ -24,7 +26,7 @@ After trying numerous VS Code themes, I found myself constantly returning to Xco
 
 1. Open VS Code
 2. Go to Extensions (Ctrl/Cmd + Shift + X)
-3. Search for "IDX Xcode"
+3. Search for "IDX Xcode - Xcode syntax and IDX Theme"
 4. Click Install
 5. Select the theme through Command Palette (Ctrl/Cmd + Shift + P) > "Preferences: Color Theme" > "IDX Xcode - Xcode syntax and IDX Theme"
 
