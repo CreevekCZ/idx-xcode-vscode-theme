@@ -2,7 +2,7 @@
   "name": "idx-xcode",
   "displayName": "IDX Xcode - Xcode syntax and IDX Theme",
   "description": "Combination of IDX color theme from \"Charmmono Theme\" and Xcode Syntax Default Dark from \"Xcode Syntax Themes\".",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "publisher": "CreevekCZ",
   "author": {
@@ -41,7 +41,13 @@
         "label": "IDX Xcode - Improved",
         "uiTheme": "vs-dark",
         "path": "./themes/idx-xcode-improved.json"
+      },
+      {
+        "label": "IDX VS Code - Default Dark Syntax",
+        "uiTheme": "vs-dark",
+        "path": "./themes/idx-vscode-dark.json"
       }
+
     ],
     "configuration": {
       "type": "object",
